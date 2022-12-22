@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 
 <html lang="zh-Hant">
+
+<script type="text/javascript" src="sub/script/sound-onclick.js"></script>
+
 <style>
 body {
   font-family: "Microsoft Yahei";
@@ -43,14 +46,15 @@ Your browser does not support the HTML5 Audio element.
 	<th width="120">時間</th>
 	<th width="260">English</th>
 	<th width="260">中文翻譯</th>
-	<th width="100">真人發音</th>
+	<th width="180">真人發音</th>
 </tr>
 
 <tr>
 	<th style="font-size:18px">'22-DEC-22</th>
 	<th style="font-size:18px"> <a href="sub/sub_0001_Christmas_early/sub_0001_Christmas_early.html">Christmas came early </a></th>
 	<th style="font-size:18px">突如其來的好事</th>
-	<th style="font-size:18px"> <audio controls="controls" src="sub/sub_0001_Christmas_early/Johnnykoon_116.mp3"></th>
+	<!-- <th style="font-size:18px"> <audio controls="controls" src="sub/sub_0001_Christmas_early/Johnnykoon_116.mp3"></th> -->
+	<th style="font-size:18px"> <a href="javascript:playclip();"><img src="sub/icon/speaker.png" width="32" border="0" alt="Click for Johnnykoon_116"></a><br></th>
 </tr>
 
 
@@ -71,6 +75,13 @@ Your browser does not support the HTML5 Audio element.
 Copyright © Johnnykoon. All rights reserved.<br>
 </br>
 </text>
+
+
+
+<audio id="Johnnykoon_116">
+<source src="sub/sub_0001_Christmas_early/Johnnykoon_116.mp3" type="audio/mpeg">
+</audio>
+<div id="sounddiv"><bgsound id="sound"></div>
 
 </center>
 
