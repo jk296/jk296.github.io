@@ -1,16 +1,30 @@
 
-function playclip() {
-if (navigator.appName == "Microsoft Internet Explorer" && (navigator.appVersion.indexOf("MSIE 7")!=-1) || (navigator.appVersion.indexOf("MSIE 8")!=-1)) {
-if (document.all)
- {
-  document.all.sound.src = "click.mp3";
- }
+function playclip_01() {
+if (document.all){document.all.sound.src = "click.mp3";}
+
+else {{var audio = document.getElementById("Johnnykoon_116");audio.play();}}
 }
 
-else {
-{
-var audio = document.getElementsByTagName("audio")[0];
-audio.play();
+function playclip_02() {
+if (document.all){document.all.sound.src = "click.mp3";}
+
+else {{var audio = document.getElementById("Johnnykoon_115");audio.play();}}
 }
+
+function playclip_03() {
+if (document.all){document.all.sound.src = "click.mp3";}
+
+else {{var audio = document.getElementById("Johnnykoon_114");audio.play();}}
 }
+
+function playclip_04() {
+if (document.all){document.all.sound.src = "click.mp3";}
+
+else {{var audio = document.getElementById("Johnnykoon_113");audio.play();}}
+}
+
+function playclip_05() {
+if (document.all){document.all.sound.src = "click.mp3";}
+
+else {{var audio = document.getElementById("Johnnykoon_112");audio.play();}}
 }
