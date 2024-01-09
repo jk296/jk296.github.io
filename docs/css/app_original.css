@@ -93,7 +93,7 @@ div#amplitude-right {
         color: #607D8B;
         font-size: 14px;
         font-weight: bold;
-        text-transform: none;
+        text-transform: uppercase;
         display: block;
         white-space: nowrap;
         overflow: hidden;
@@ -324,7 +324,7 @@ div#control-container {
   div#control-container div#repeat-container {
     width: 25%;
     float: left;
-    padding-top: 25px; }
+    padding-top: 20px; }
     div#control-container div#repeat-container div#repeat {
       width: 24px;
       height: 19px;

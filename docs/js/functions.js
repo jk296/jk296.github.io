@@ -61,18 +61,32 @@ Amplitude.init({
 	
 	"songs": [
 		{
-			"name": "I will keep you updated so you won't be left out in the cold",
-			"artist": "Johnnykoon",
-			"album": "英文單字強",
-			"url": "sub/audio/Johnnykoon_117.mp3",
-			"cover_art_url": "sub/image/LOGO.png"
+			"name": "chill-deep-house.mp3",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/chill-deep-house.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "I got a raise. Christmas came early!",
-			"artist": "Johnnykoon",
-			"album": "英文單字強",
-			"url": "sub/audio/Johnnykoon_116.mp3",
-			"cover_art_url": "sub/image/LOGO.png"
+			"name": "middle-east-dancing.mp3",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/middle-east-dancing.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "trap-future-bass.mp3",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/trap-future-bass.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "deep-future-garage.mp3",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/deep-future-garage.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
 		}
 		
 	]
