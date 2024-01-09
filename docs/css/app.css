@@ -83,16 +83,16 @@ div#amplitude-right {
       width: calc( 100% - 110px ); }
       div#amplitude-right div.song div.song-meta-data span.song-title {
         color: #272726;
-        font-size: 16px;
+        font-size: 20px;
         display: block;
         font-weight: 300;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis; }
       div#amplitude-right div.song div.song-meta-data span.song-artist {
-        color: #607D8B;
-        font-size: 14px;
-        font-weight: bold;
+        color: #3393FF;
+        font-size: 20px;
+        font-weight: regular;
         text-transform: none;
         display: block;
         white-space: nowrap;
@@ -369,7 +369,7 @@ div#control-container {
         cursor: pointer;
         float: left; }
         div#control-container div#central-control-container div#central-controls div#play-pause.amplitude-paused {
-          background: url("../img/play.svg"); }
+          background: url("../img/play.svg"); height: 50%;}
         div#control-container div#central-control-container div#central-controls div#play-pause.amplitude-playing {
           background: url("../img/pause.svg"); }
       div#control-container div#central-control-container div#central-controls div#next {
