@@ -61,31 +61,59 @@ Amplitude.init({
 	
 	"songs": [
 		{
-			"name": "chill-deep-house.mp3",
+			"name": "108",
 			"artist": "BATMAN",
 			"album": "全壘打",
-			"url": "sub/audio/chill-deep-house.mp3",
+			"url": "sub/audio/johnnykoon_108.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "middle-east-dancing.mp3",
+			"name": "109",
 			"artist": "BATMAN",
 			"album": "全壘打",
-			"url": "sub/audio/middle-east-dancing.mp3",
+			"url": "sub/audio/johnnykoon_109.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "trap-future-bass.mp3",
+			"name": "110",
 			"artist": "BATMAN",
 			"album": "全壘打",
-			"url": "sub/audio/trap-future-bass.mp3",
+			"url": "sub/audio/johnnykoon_110.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		},
 		{
-			"name": "deep-future-garage.mp3",
+			"name": "111",
 			"artist": "BATMAN",
 			"album": "全壘打",
-			"url": "sub/audio/deep-future-garage.mp3",
+			"url": "sub/audio/johnnykoon_111.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "112",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/johnnykoon_112.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "113",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/johnnykoon_113.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "114",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/johnnykoon_114.mp3",
+			"cover_art_url": "sub/image/music-streaming.png"
+		},
+		{
+			"name": "115",
+			"artist": "BATMAN",
+			"album": "全壘打",
+			"url": "sub/audio/johnnykoon_115.mp3",
 			"cover_art_url": "sub/image/music-streaming.png"
 		}
 		
